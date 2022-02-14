@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bigboy991 
+- 👋 Hi, I’m @Bigboy991 I am new here at Github
 - 👀 I’m interested in programming and project development
 - 🌱 I’m currently learning codings and more
 - 💞️ I’m looking to collaborate on create a simple project
